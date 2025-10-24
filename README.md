@@ -1,26 +1,26 @@
-Ventury Odonto
+Ventury Odonto — Protótipo de Site
 
-Site institucional desenvolvido para a clínica Ventury Odonto, com o objetivo de apresentar os serviços, exames, equipe e formas de contato de forma moderna, simples e acessível em qualquer dispositivo.
+Este projeto é um protótipo de demonstração desenvolvido para representar como poderia ser o site oficial da Clínica Ventury Odonto.
+O objetivo é apenas mostrar o design, a estrutura e a navegação, sem fins comerciais.
 
- Acesse o site: https://arthursantanasantos1.github.io/Site_Clinica/
+Acesse o protótipo online:
+https://arthursantanasantos1.github.io/Site_Clinica/
 
-Sobre o Projeto
+Sobre o Protótipo
 
-O site conta com páginas dedicadas aos principais serviços da clínica:
+O site contém páginas ilustrativas:
 
-Página inicial com apresentação e links para redes sociais
+Início — apresentação da clínica e links principais
 
-Consultas e exames odontológicos
+Consultas, Exames e Tratamentos — informações demonstrativas
 
-Tratamentos oferecidos
+Equipe — exemplo de apresentação de profissionais
 
-Equipe profissional
+Contato — formulário e mapa ilustrativos
 
-Formulário e mapa de contato
+As cores, fontes e layout seguem a identidade visual da marca Ventury Odonto, com tons de vinho, cinza e branco, e um design limpo e responsivo.
 
-Tudo foi feito com uma identidade visual baseada nas cores da marca: vinho escuro, cinza e branco, além de um layout limpo e responsivo.
-
-Tecnologias
+Tecnologias Utilizadas
 
 HTML5
 
@@ -32,7 +32,7 @@ Bootstrap
 
 Font Awesome
 
-Créditos
+Autor
 
-Desenvolvido por Santana 
-© 2025 Ventury Odonto — Todos os direitos reservados.
+Protótipo criado por Santana como demonstração de site institucional.
+© 2025 — Uso exclusivamente educacional e demonstrativo.
